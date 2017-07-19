@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 proggg
+=======
+proggg here
+>>>>>>> devbranch
